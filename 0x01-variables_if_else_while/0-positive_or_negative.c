@@ -32,7 +32,7 @@ int main(void)
 
 	{
 
-		printf("%d is positive\n", n);
+		printf("%i is positive\n", n);
 
 	}
 
@@ -40,7 +40,7 @@ int main(void)
 
 	{
 
-		printf("%d is zero\n", n);
+		printf("%i is zero\n", n);
 
 	}
 
@@ -48,7 +48,7 @@ int main(void)
 
 	{
 
-		printf("%d is negative\n", n);
+		printf("%i is negative\n", n);
 
 	}
 
